@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: monospace;
+}
+#description{
+    display: block;
+    border: 2px solid lightskyblue;
+    width: 80vw;
+    margin: auto;
+    padding:20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+#commands{
+    display: block;
+    margin: auto;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: monospace;
+    padding: 5px;
+    font-family: inherit;
+    color: inherit;
+    background-color: inherit;
+}
+label{
+    display: block;
+    text-align: center;
+    width: 80vw;
+    margin: auto;
+
+}
+button{
+    display: block;
+    text-align: center;
+    margin: auto;
+
+
+}
+#do{
+    background-color: inherit;
+    color: inherit;
+    font-family: inherit;
+    border-radius: 20px;
+    border: 2px solid green;
+}
+#do:hover{
+    color: black;
+    background-color: green;
+}
+
